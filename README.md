@@ -14,13 +14,3 @@ Models are trained on listings from selected cities and evaluated on listings fr
 ## Data
 
 The analysis uses the [25,000+ Canadian Rental Housing Market dataset](https://www.kaggle.com/datasets/sergiygavrylov/25000-canadian-rental-housing-market-june-2024), a June 2024 snapshot of Canadian rental listings.
-
-The dataset includes:
-
-- Monthly asking price in CAD
-- City and province
-- Latitude and longitude
-- Property type
-- Bedrooms and bathrooms
-- Square footage
-- Lease, furnishing, smoking, and pet information
